@@ -4,7 +4,7 @@
 "Age": 20,
 "Sex": "male",
 "Contact info": {"Phone number": "+375445903113",
-                "Email": "samkinbogdan0509@gamil.com"},
+                 "Email": "samkinbogdan0509@gamil.com"},
 "Address": {"Country": "Belarus",
             "Region": "Minsk",
 			"City": "Svisloch",
@@ -12,7 +12,6 @@
 			"House number": "28-15" },
 "Competencies": ["test engineer", "social psychology", "academic works on psychology of videogames"],
 "Additional skills": ["C1 English level", "Entry level knowledge of HTML, GIT, JSON and SQL"],
-"Education": ["Belarusian State University - psychology"],
+"Education": ["Belarusian State University - psychology", "Belhard academy - Test engineer Basic Level"],
 "Job experience": null
-
 }
